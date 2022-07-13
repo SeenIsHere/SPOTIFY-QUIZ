@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SPOTIFY-QUIZ/static/css/main.6d217fc1.css",
+    "main.js": "/SPOTIFY-QUIZ/static/js/main.2e401d4d.js",
+    "index.html": "/SPOTIFY-QUIZ/index.html",
+    "main.6d217fc1.css.map": "/SPOTIFY-QUIZ/static/css/main.6d217fc1.css.map",
+    "main.2e401d4d.js.map": "/SPOTIFY-QUIZ/static/js/main.2e401d4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d217fc1.css",
+    "static/js/main.2e401d4d.js"
+  ]
+}

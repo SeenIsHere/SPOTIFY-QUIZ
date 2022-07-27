@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/SPOTIFY-QUIZ/static/css/main.6d217fc1.css",
-    "main.js": "/SPOTIFY-QUIZ/static/js/main.47c00fc3.js",
+    "main.js": "/SPOTIFY-QUIZ/static/js/main.3101a195.js",
     "index.html": "/SPOTIFY-QUIZ/index.html",
     "main.6d217fc1.css.map": "/SPOTIFY-QUIZ/static/css/main.6d217fc1.css.map",
-    "main.47c00fc3.js.map": "/SPOTIFY-QUIZ/static/js/main.47c00fc3.js.map"
+    "main.3101a195.js.map": "/SPOTIFY-QUIZ/static/js/main.3101a195.js.map"
   },
   "entrypoints": [
     "static/css/main.6d217fc1.css",
-    "static/js/main.47c00fc3.js"
+    "static/js/main.3101a195.js"
   ]
 }
